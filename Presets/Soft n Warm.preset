@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="10" p0="0" p1="1" p2="-1" p3="38.125" p4="74.21875" p5="0" p6="10.9375" p7="82.8125" p8="1" p9="20.3125"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.bin"/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="1">
+                    <p0 name="global_opacity" value="100"/>
+                </params>
+            </state>
+        </skin>
+    </GUI>
+</Preset>

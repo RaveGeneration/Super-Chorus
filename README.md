@@ -1,1 +1,1 @@
-<img width="2000" height="253" alt="Super Chorus 102 screen" src="https://github.com/user-attachments/assets/44bc1445-bd7a-4691-aab3-9877a793cfb2" />
+<img width="2000" height="253" alt="Super Chorus 103 screen" src="https://github.com/user-attachments/assets/652e041f-9b95-46b6-a918-513a63040764" />
